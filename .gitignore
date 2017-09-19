@@ -8,3 +8,6 @@
 *.map
 *.sym
 *.eep
+
+obj/*
+!.gitkeep

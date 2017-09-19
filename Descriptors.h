@@ -45,6 +45,8 @@ enum StringDescriptors_t
 #define DTYPE_HID                 0x21
 // Descriptor Header Type - HID Class HID Report Descriptor
 #define DTYPE_Report              0x22
+// Joystick endpoint polling interval (in ms). It looks like any value set here renders in a timing multiple of 8 ms.
+#define POLLING_MS 8
 
 // Function Prototypes
 uint16_t CALLBACK_USB_GetDescriptor(
@@ -54,4 +56,3 @@ uint16_t CALLBACK_USB_GetDescriptor(
 ) ATTR_WARN_UNUSED_RESULT ATTR_NON_NULL_PTR_ARG(3);
 
 #endif
-
