@@ -1,0 +1,14 @@
+C:\Users\shigehiro\Documents\GitHub\Switch-Fightstick\Image2Hex\Image2Hex\obj\Debug\Image2Hex.csprojResolveAssemblyReference.cache
+C:\Users\shigehiro\Documents\GitHub\Switch-Fightstick\Image2Hex\Image2Hex\obj\Debug\MainWindow.g.cs
+C:\Users\shigehiro\Documents\GitHub\Switch-Fightstick\Image2Hex\Image2Hex\obj\Debug\App.g.cs
+C:\Users\shigehiro\Documents\GitHub\Switch-Fightstick\Image2Hex\Image2Hex\obj\Debug\Image2Hex_MarkupCompile.cache
+C:\Users\shigehiro\Documents\GitHub\Switch-Fightstick\Image2Hex\Image2Hex\obj\Debug\Image2Hex_MarkupCompile.lref
+C:\Users\shigehiro\Documents\GitHub\Switch-Fightstick\Image2Hex\Image2Hex\obj\Debug\MainWindow.baml
+C:\Users\shigehiro\Documents\GitHub\Switch-Fightstick\Image2Hex\Image2Hex\obj\Debug\Image2Hex.g.resources
+C:\Users\shigehiro\Documents\GitHub\Switch-Fightstick\Image2Hex\Image2Hex\obj\Debug\Image2Hex.Properties.Resources.resources
+C:\Users\shigehiro\Documents\GitHub\Switch-Fightstick\Image2Hex\Image2Hex\obj\Debug\Image2Hex.csproj.GenerateResource.Cache
+C:\Users\shigehiro\Documents\GitHub\Switch-Fightstick\Image2Hex\Image2Hex\obj\Debug\Image2Hex.exe
+C:\Users\shigehiro\Documents\GitHub\Switch-Fightstick\Image2Hex\Image2Hex\obj\Debug\Image2Hex.pdb
+C:\Users\shigehiro\Documents\GitHub\Switch-Fightstick\Image2Hex.exe.config
+C:\Users\shigehiro\Documents\GitHub\Switch-Fightstick\Image2Hex.exe
+C:\Users\shigehiro\Documents\GitHub\Switch-Fightstick\Image2Hex.pdb
